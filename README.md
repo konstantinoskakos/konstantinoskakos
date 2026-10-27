@@ -1,16 +1,18 @@
-## Hi there 👋
+# Hello i am Konstantinos
+ Informatics student at Athens University of Economics and Business (AUEB), interested in quantitative finance,
+ financial data analysis and software engineering.
 
-<!--
-**konstantinoskakos/konstantinoskakos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Currently
+-Building a backtesting project for a moving average strategy in Python
+-Learning pandas and time series analysis
 
-Here are some ideas to get you started:
+## Skills
+-Languages: Java, Python, SQL
+-Libraries: pandas, NumPy, matplotlib
+-Tools: Git, Github, VS code
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Coursework
+Probability & Statistics, Linear Algebra, Calculus, Object-Oriented Programming, Digital Logic Design
+
+## Contact
+www.linkedin.com/in/konstantinos-kakos-9b932b37b | konstantinoskakos2007@gmail.com
